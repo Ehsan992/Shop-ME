@@ -20,7 +20,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-# Project Title
+# Project Title : Interactive E-commerce Platform with Real-time Text Emotion Detection
 
 ## Core Features
 
